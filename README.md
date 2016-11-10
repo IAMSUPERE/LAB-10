@@ -79,5 +79,5 @@
 ### [Graphics Methods](https://msdn.microsoft.com/en-us/library/system.drawing.graphics_methods(v=vs.110).aspx)
 ### [System.Drawing Namespace](https://msdn.microsoft.com/en-us/library/system.drawing(v=vs.110).aspx)
 ### [GDI+ .NET Color & HatchStyle Chart](https://drewnoakes.com/snippets/GdiColorChart/)
-![](https://github.com/IAMSUPERE/LAB-10/blob/master/imgs/lab10.jpg)
+![](https://github.com/IAMSUPERE/LAB-10/blob/master/imgs/relab10.jpg)
 
